@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BoardManager : MonoBehaviour
 {
+
     // we will use it to determinate a range to pick a random number of walls or food 
     public class Count
     {
